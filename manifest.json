@@ -1,0 +1,15 @@
+{
+  "name": "ডিজিটাল প্রেসক্রিপশন প্যাড",
+  "short_name": "প্রেসক্রিপশন",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0284c7",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3774/3774299.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
